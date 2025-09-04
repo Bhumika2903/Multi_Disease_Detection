@@ -1,0 +1,15 @@
+# Ignore datasets
+Medical Reports/
+dataset/
+
+# Ignore ML model files
+*.h5
+*.pkl
+*.joblib
+
+# Ignore temporary files
+*.zip
+*.rar
+*.tar.gz
+__pycache__/
+.DS_Store
