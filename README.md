@@ -70,8 +70,7 @@ PredictiX is a comprehensive multi-disease prediction platform designed to predi
 ### Predictors Page
 ![Predictors](https://raw.githubusercontent.com/hallowshaw/PredictiX/main/Screenshots/SS3.png)
 
-### About Page
-![About](https://raw.githubusercontent.com/hallowshaw/PredictiX/main/Screenshots/SS4.png)
+
 
 
 ## Future Enhancements
